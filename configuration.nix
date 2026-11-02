@@ -65,7 +65,7 @@
   };
 
   #User management
-  users.users.alice = {
+  users.users.nix = {
     isNormalUser = true;
     extraGroups = [ "wheel" "networkmanager" ];
   };
